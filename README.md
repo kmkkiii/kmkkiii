@@ -1,5 +1,17 @@
 ## Hi👋 I'm kmkkiii.
+![Visitor Count](https://komarev.com/ghpvc/?username=kmkkiii)
 
+## About
+- Java Programmer(2019.04〜2022.04)
+- I'm currently studying English and Computer Science, Flutter etc...
+
+## GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kmkkiii&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmkkiii" />
+</a>
 <!--
 **rsk-kmk/rsk-kmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
