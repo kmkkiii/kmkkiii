@@ -2,8 +2,9 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=kmkkiii)
 
 ## About
+- I'll join mofmof Inc. from October 2022.
 - Java Programmer(2019.04〜2022.04)
-- I'm currently learning English and Computer Science, Frontend-tech etc...
+- I'm currently learning English and Computer Science, Ruby, Ruby on Rails, GraphQL, Docker, React, TypeScript etc...
 
 ## GitHub Stats
 <p align="left"> 
