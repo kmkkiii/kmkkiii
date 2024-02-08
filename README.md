@@ -1,16 +1,11 @@
 ## Hi👋 I'm kmkkiii.
-![Visitor Count](https://komarev.com/ghpvc/?username=kmkkiii)
-
-## About
-- I'll join mofmof Inc. from October 2022.
-- Java Programmer(2019.04〜2022.04)
-- I'm currently learning English and Computer Science, Ruby, Ruby on Rails, GraphQL, Docker, React, TypeScript etc...
 
 ## GitHub Stats
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmkkiii&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kmkkiii&theme=onedark&show_icons=ture" />
 </p>
+
 <!--
 **rsk-kmk/rsk-kmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
